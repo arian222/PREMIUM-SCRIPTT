@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# Develovers » ALECS࿐
+# Email      » alecsalecs021@gmail.com
+# telegram   » https://t.me/alecss12
+# whatsapp   » wa.me/+40732159658
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# ALECS࿐
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/gemilangvip/autoscript-vip/main/"
+    REPO="https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPT/main/"
 
 ####
 start=$(date +%s)
@@ -317,8 +317,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6348824977"
-KEY="6854390843:AAHnygrqUOSq-5spVPBBrOvBMy4xcdUBPBU"
+CHATID="1670137273"
+KEY="7506598241:AAFRMmFOlPu225VdiUMIGL7kE4ECEnvPAc4"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="Instalasi Autoscript-vip V2.4
@@ -334,7 +334,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 By Admin Gemilangkinasih࿐
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <i>Notifications Automatic From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+628984880039"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/Alecss12"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
@@ -951,7 +951,7 @@ rm -rf /root/domain
 #sudo hostnamectl set-hostname $user
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
-echo -e "${green} Script Successfull Installed"
+echo -e "${green} Script Successfull Installed ACEST SCRIPT ESTE PROPRIETATEA ALECS PENTRU CONTACT SCRIETI PE WHATSAPP+40732159658"
 echo ""
 read -p "$( echo -e "Press ${YELLOW}[ ${NC}${YELLOW}Enter${NC} ${YELLOW}]${NC} For reboot") "
 reboot
