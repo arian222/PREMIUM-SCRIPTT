@@ -21,13 +21,13 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPT/main/ubu20-deb10-stable && chmod +x ubu20-deb10-stable && ./ubu20-deb10-stable
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPTT/main/ubu20-deb10-stable && chmod +x ubu20-deb10-stable && ./ubu20-deb10-stable
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget -q https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPT/main/update && chmod +x update && ./update
+wget -q https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPTT/main/update && chmod +x update && ./update
 
 ```
 ### TESTED ON OS 
