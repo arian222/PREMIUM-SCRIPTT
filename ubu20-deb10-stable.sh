@@ -280,7 +280,7 @@ CITY=$(curl -s ipinfo.io/city )
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/gemilangvip/autoscript-vip/main/register"
+izinsc="https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPTT/main/register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
