@@ -84,4 +84,4 @@ wget -q https://raw.githubusercontent.com/arian222/PREMIUM-SCRIPTT/main/update &
 
 ### WHATSAPP 
 <p align="center"><b>
-  <a href="https://wa.me/+407321596583" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400"> 
+  <a href="https://wa.me/+40732159658" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400"> 
